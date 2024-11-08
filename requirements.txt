@@ -175,11 +175,11 @@ PyYAML==6.0
 pyzmq==24.0.1
 qiskit==1.1.0
 qiskit-aer==0.14.2
-qiskit-ibm-runtime==0.23.0
+qiskit-ibm-runtime
 qtconsole==5.4.0
 QtPy==2.3.0
 redlines==0.3.0
-requests==2.31.0
+requests
 requests-ntlm==1.1.0
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
@@ -197,7 +197,7 @@ six==1.16.0
 scikit-learn==1.5.2
 slicer==0.0.8
 sniffio==1.3.0
-snowflake-connector-python==3.0.3
+snowflake-connector-python
 snowflake-sqlalchemy==1.4.7
 soupsieve==2.3.2.post1
 SQLAlchemy
