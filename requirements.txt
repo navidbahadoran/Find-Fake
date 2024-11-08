@@ -59,7 +59,7 @@ h5py==3.11.0
 html5lib==1.1
 httpcore==1.0.5
 httpx==0.27.0
-ibm-cloud-sdk-core==3.20.1
+ibm-cloud-sdk-core
 ibm-platform-services==0.53.7
 idna==3.4
 imageio==2.36.0
@@ -142,7 +142,7 @@ Pillow==9.3.0
 platformdirs==2.6.0
 plotly==5.24.1
 ply==3.11
-pmdarima==2.0.4
+pmdarima
 prometheus-client==0.15.0
 prompt-toolkit==3.0.36
 protobuf==4.25.3
@@ -163,7 +163,7 @@ pyodbc==4.0.39
 pyOpenSSL==23.1.1
 pyparsing==3.0.9
 PyPDF2==2.12.1
-pyppeteer==1.0.2
+pyppeteer
 pyrsistent==0.19.2
 pyspnego==0.10.2
 python-dateutil==2.8.2
@@ -231,6 +231,7 @@ ucimlrepo==0.0.7
 umap==0.1.1
 umap-learn==0.5.7
 uri-template==1.2.0
+urllib3
 wcwidth==0.2.5
 webcolors==1.12
 webencodings==0.5.1
