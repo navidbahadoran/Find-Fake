@@ -194,13 +194,13 @@ Send2Trash==1.8.2
 shap==0.46.0
 simsimd==5.9.11
 six==1.16.0
-sklearn==0.0.post1
+scikit-learn==1.5.2
 slicer==0.0.8
 sniffio==1.3.0
 snowflake-connector-python==3.0.3
 snowflake-sqlalchemy==1.4.7
 soupsieve==2.3.2.post1
-SQLAlchemy==1.4.48
+SQLAlchemy==1.4.48ci
 sspilib==0.1.0
 stack-data==0.6.2
 statsmodels==0.14.2
